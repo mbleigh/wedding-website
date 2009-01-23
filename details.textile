@@ -1,0 +1,12 @@
+---
+layout: master
+title: Ceremony &amp; Reception Information
+---
+
+h1. Ceremony & Reception Information
+
+h2. The ceremony and reception will be held on August 8, 2009 at Longview Mansion in Lees Summit, MO
+
+h3. Longview Mansion
+
+<p align='center'>!images/longview_panorama.jpg!</p>

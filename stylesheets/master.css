@@ -1,0 +1,134 @@
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
+
+body {
+  background: url(../images/body_bg.png) fixed;
+  font-family: Georgia, serif;
+}
+
+a {
+  color: #572;
+}
+
+#wrapper {
+  min-height: 100%;
+  position: relative;
+  background: url(../images/content_bg.png) repeat-y center;
+  width: 654px;
+  padding: 0 36px;
+  margin: 0 auto;
+}
+
+#footer {
+  position: absolute;
+  margin: 0 auto;
+  bottom: 0;
+  width: 654px;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 12px;
+  font-style: italic;
+  border-top: 1px dashed #ccc;
+  background: #f8f8f8;
+  letter-spacing: 0.075em;
+}
+
+#header h1, #header h2 {
+  margin: 0;
+  padding: 0;
+}
+
+#header h1 a {
+  background: url(../images/header_date.png) no-repeat center top;
+  height: 88px;
+  text-indent: -999em;
+  display: block;
+}
+
+#header h2 a {
+  display: block;
+  background: url(../images/header_names.png) no-repeat center top;
+  height: 51px;
+  text-indent: -999em;
+}
+
+#nav {
+  margin: 5px 0 0 35px;
+  padding: 0;
+  height: 25px;
+}
+
+#nav li {
+  list-style: none;
+  padding-right: 10px;
+  background: url(../images/menu_divider.png) no-repeat right center;
+  height: 25px;
+  float: left;
+  margin-right: 10px;
+}
+
+#nav li:last-child {
+  background: none;
+  padding: 0;
+}
+
+#nav li a {
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #666;
+  text-decoration: none;
+  letter-spacing: 0.25em;
+  float: left;
+  display: block;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+#nav li a:hover {
+  border-bottom: 2px dotted #ccc;
+}
+
+#content {
+  padding: 15px 35px 60px;
+}
+
+#content h1 {
+  color: #674;
+  font-size: 36px;
+  margin: 0;
+  font-weight: normal;
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 1px dashed #8b4;
+}
+
+#content h2 {
+  text-align: center;
+  font-style: italic;
+  font-weight: normal;
+  color: #777;
+  margin-top: 10px;
+}
+
+#content h3 {
+  text-transform: uppercase;
+  font-weight: normal;
+  letter-spacing: 0.25em;
+  padding: 0 0 5px 0;
+  border-bottom: 1px solid #eee;
+  color: #894;
+  margin: 15px 0 10px;
+  font-size: 16px;
+}
+
+#content p {
+  margin: 0 0 15px 0;
+  line-height: 150%;
+  font-size: 14px;
+  color: #333;
+}

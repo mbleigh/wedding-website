@@ -1,0 +1,8 @@
+---
+layout: master
+title: Welcome
+---
+
+h1. Welcome To Our Wedding Website!
+
+h2. We're getting married August 8, 2009
