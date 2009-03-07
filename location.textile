@@ -1,0 +1,8 @@
+---
+layout: master
+title: Location and Visitors' Information
+---
+
+h1. Location and Visitors' Information
+
+h2. How to get there, where to stay and what to see.

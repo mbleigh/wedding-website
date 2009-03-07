@@ -5,4 +5,15 @@ title: Welcome
 
 h1. Welcome To Our Wedding Website!
 
-h2. We're getting married August 8, 2009
+h2. We're getting married on August 8, 2009!
+
+Hello and welcome to our wedding website! We're very excited to see everyone on the big day and we have put this site together to provide a little bit of information about the location, ceremony, and us!
+
+p{text-align: center}. !images/content-divider.png!
+
+If you have any questions about any of the details of the big day or just want to drop us a line, please "send us an e-mail":wearegettingmarried@eighteightohnine.com and we'll be happy to get back to you. We'll be updating this website in a few months with more specific information, but until then, enjoy exploring the website and we look forward to seeing you in August.
+
+<p class='signature'>Sincerely,
+*Morgan and Michael*</p>
+
+<div style='clear:both;'></div>

@@ -6,3 +6,4 @@ title: Wedding Party
 h1. The Wedding Party
 
 h2. Meet the people involved in the ceremony.
+

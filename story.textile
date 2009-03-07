@@ -20,3 +20,8 @@ After months of much conversation, Michael got up the courage to ask Morgan on a
 h3. Falling in Love
 
 Our relationship continued to blossom through college.  We even played side by side in the orchestra when we found a break from our studies.  Little did Morgan know that Michael was saving up every penny for one special, shiny purchase.  By the time we again graduated together, we were engaged.
+
+<script type="text/javascript" charset="utf-8">
+  H1_LEFT_OFFSET = 212;
+  H2_LEFT_OFFSET = 100;
+</script>

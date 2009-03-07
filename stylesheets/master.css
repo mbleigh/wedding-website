@@ -8,7 +8,7 @@ html, body {
 
 body {
   background: url(../images/body_bg.png) fixed;
-  font-family: Georgia, serif;
+  font-family: "Bookman Old Style", Georgia, "Times New Roman", Times, serif;
 }
 
 a {
@@ -45,7 +45,7 @@ a {
 
 #header h1 a {
   background: url(../images/header_date.png) no-repeat center top;
-  height: 88px;
+  height: 150px;
   text-indent: -999em;
   display: block;
 }
@@ -53,12 +53,13 @@ a {
 #header h2 a {
   display: block;
   background: url(../images/header_names.png) no-repeat center top;
-  height: 51px;
+  height: 57px;
   text-indent: -999em;
+  margin-bottom: 15px;
 }
 
 #nav {
-  margin: 5px 0 0 35px;
+  margin: 5px 0 0 142px;
   padding: 0;
   height: 25px;
 }
@@ -82,7 +83,7 @@ a {
   text-transform: uppercase;
   color: #666;
   text-decoration: none;
-  letter-spacing: 0.25em;
+  letter-spacing: 0.2em;
   float: left;
   display: block;
   padding: 5px;
@@ -94,12 +95,13 @@ a {
 }
 
 #content {
-  padding: 15px 35px 60px;
+  padding: 60px 35px 100px;
+  background: url(../images/content-divider.png) no-repeat center 25px;
 }
 
 #content h1 {
-  color: #674;
-  font-size: 36px;
+  color: #899956;
+  font-size: 30px;
   margin: 0;
   font-weight: normal;
   text-align: center;
@@ -120,9 +122,9 @@ a {
   font-weight: normal;
   letter-spacing: 0.25em;
   padding: 0 0 5px 0;
-  border-bottom: 1px solid #eee;
-  color: #894;
-  margin: 15px 0 10px;
+  border-bottom: 1px solid #ddd;
+  color: #555;
+  margin: 25px 0 10px;
   font-size: 16px;
 }
 
@@ -131,4 +133,17 @@ a {
   line-height: 150%;
   font-size: 14px;
   color: #333;
+}
+
+#content p.signature {
+  text-align: left;
+  float: right;
+  color: #666;
+  font-size: 16px;
+}
+#content p.signature strong {
+  font-style: italic;
+  font-size: 18px;
+  font-weight: normal;
+  color: #572;
 }
