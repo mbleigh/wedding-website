@@ -7,7 +7,7 @@ h1. Welcome To Our Wedding Website!
 
 h2. We're getting married on August 8, 2009!
 
-Hello and welcome to our wedding website! We're very excited to see everyone on the big day and we have put this site together to provide a little bit of information about the location, ceremony, and us!
+Hello and welcome to our wedding website! We're very excited to see everyone on the big day, and we have put this site together to provide a little bit of information about the location, ceremony, and us!
 
 p{text-align: center}. !images/content-divider.png!
 
