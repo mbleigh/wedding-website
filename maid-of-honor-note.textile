@@ -1,0 +1,17 @@
+---
+layout: master
+title: A Note From the Maid of Honor
+---
+
+h1. A Note From the Maid of Honor
+
+h2. Gift Registry Information
+
+Morgan and Michael are extremely excited to see everyone on August 8! To make it easier for guests who are trying to find gifts to purchase for the wedding, Morgan and Michael have created a few different registries. They wanted to register for things that they could keep for years and years to remind them of their special day.
+
+There are three registries to make it convenient for anyone to find a store nearby: a registry for fine china at "Dillard's":http://www.dillards.com/wishlist/WLMasterServlet?rType=01&intent=ITEMS&rNum=123965725&orderBy=C, a registry for every day dinnerware at "Crate and Barrel":http://www.crateandbarrel.com/Gift-Registry/Guest/ViewRegistry.aspx?grid=4286786, and a registry for cookware and other items at "Target":http://www.target.com/registry/wedding/IJG0Z2MM8J49. Of course the gift registries aren't a hard and fast rule, but hopefully it will make it more convenient for many guests to have these options.
+
+Thank you for sharing this special day with Morgan and Michael, and we all look forward to seeing you in August!
+
+<p class='signature'>Sincerely,
+*Sara Kendall*</p> 
