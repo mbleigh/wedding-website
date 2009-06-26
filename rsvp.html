@@ -1,0 +1,40 @@
+---
+layout: master
+title: RSVP
+---
+
+<h1>RSVP for August 8, 2009</h1>
+<h2>The favor of a reply is requested by July 8, 2009.</h2>
+
+<form class='rsvp'><div class='rsvp'>
+  <div class='names'>
+    <table class='names'>
+      <thead>
+        <tr>
+          <th><label for='first_name'>First Name:</label></th>
+          <th><label for='last_name'>Last Name:</label></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><input size='15' type='text' id='first_name' name='first_names[]'/></td>
+          <td><input size='25' type='text' id='last_name' name='last_names[]'/></td>
+        </tr>
+      </tbody>
+    </table>
+    <p align='right' class='js-add'><a href='#add'>Add An Additional Guest</a></p>
+  </div>
+
+  <ul class='acceptance'>
+    <li><input type='radio' name='accepts' value='true' id='radio_accept'/> <label for='radio_accept'>Accepts With Pleasure</label></li>
+    <li><input type='radio' name='accepts' value='false' id='radio_decline'/> <label for='radio_decline'>Declines With Regrets</label></li>
+  </ul>
+
+  <div class='message'>
+    <label for='note'>Note:</label>
+    <textarea name='note' id='note' rows='2' cols='55'></textarea>
+  </div>
+</div>
+
+<p align='center'><button type='submit'>Send Reply</button></p>
+</form>

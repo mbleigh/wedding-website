@@ -59,7 +59,7 @@ a {
 }
 
 #nav {
-  margin: 5px 0 0 142px;
+  margin: 5px 0 0 100px;
   padding: 0;
   height: 25px;
 }
@@ -146,4 +146,73 @@ a {
   font-size: 18px;
   font-weight: normal;
   color: #572;
+}
+
+div.rsvp {
+  margin: 35px 0 15px;
+  background: #FCF7EB;
+  padding: 25px 15px;
+  border: 1px solid #dca;
+}
+
+form.rsvp label {
+  text-transform: uppercase;
+  color: #652;
+  letter-spacing: 0.2em;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: italic;
+}
+
+form.rsvp input {
+  font-size: 22px;
+  font-family: "Book Antiqua", Georgia, serif;
+  font-style: italic;
+  border: 0;
+  border-bottom: 1px solid #ba7;
+  padding: 4px 6px;
+  background: transparent;
+  text-align: center;
+}
+
+form.rsvp table.names {
+  margin: 0 auto;
+}
+
+form.rsvp table.names td {
+  padding: 5px 10px;
+}
+
+form.rsvp table.names th {
+  text-align: left;
+  padding: 0 10px;
+}
+
+form.rsvp ul {
+  text-align: center;
+  padding: 10px 15px;
+  margin: 20px;
+  line-height: 200%;
+}
+
+form.rsvp li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+form.rsvp div.message {
+  margin: 0 20px;
+}
+
+form.rsvp div.message label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+form.rsvp div.message textarea {
+  background: ;
+  border: 1px dashed #ba7;
+  padding: 10px;
+  font-family: "Book Antiqua", Georgia, sans-serif;
 }
